@@ -28,24 +28,35 @@ _Bachelor’s in Data Intelligence and Cybersecurity_
 
 ---
 
+## 🛠️ Projects & Tech Activities
+
+### 🐾 Panteras Hacking (aka Pwnteras) @ Universidad Panamericana
+**Co-Leader** | July 2025 – Present  
+- **Tripled** the amount of members in our team so far during our leadership.
+- Organize the team activities with tools like Notion, Github, and Slack
+- Lead the team to clasify in the **CSAW 2025 finals**.
+
+**Member** | Feb 2025 – Present  
+- Competed in **15+ CTFs** so far, focusing on web exploitation and crypto.
+- Top 3 on our internal team leaderboard.
+
+
+### 💻 Electric Racing Association @ Oakland University
+**Lead Web Developer** | June 2025 – October 2025  
+- Coded 80% of the **team's website** from scratch using React and Tailwind.
+- Lead the division's vision for our website with the help of Figma.
+- Responded to team's feedback by idea implementation.
+
+---
+
 ## 💼 Experience
 
 ### 🧪 iOS Development Lab @ Universidad Panamericana  
-**Junior Backend Developer** | Aug 2024 – Present  
+**Junior Backend Developer** | Aug 2024 – Sept 2025  
 
 - Built an API integration to sync class schedules between Google Calendar and the university’s system.
 - Worked on the backend of a school info app that helps students get organized.
 - Got hands-on with agile teamwork, API design, and clean backend architecture.
-
----
-
-## 🛠️ Projects & Tech Activities
-
-### 🐾 Panteras Hacking (aka Pwnteras)  
-**Team Member** | Feb 2025 – Present  
-
-- Competed in **8+ CTFs**, focusing on web exploitation and crypto.
-- 📈 Top 5 on our internal team leaderboard.
 
 ---
 
