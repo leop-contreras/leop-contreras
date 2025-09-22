@@ -33,8 +33,8 @@ _Bachelor’s in Data Intelligence and Cybersecurity_
 ### 🐾 Panteras Hacking (aka PwnTeras) @ Universidad Panamericana
 **Co-Leader** | July 2025 – Present  
 - **Tripled** the amount of members in our team so far during our leadership.
-- Organize the team activities with tools like Notion, Github, and Slack
-- Lead the team to clasify in the **CSAW 2025 finals**.
+- Organize the team activities with tools like Notion, Github, and Slack.
+- Lead the team to classify in the **CSAW 2025 finals**.
 
 **Member** | Feb 2025 – Present  
 - Competed in **15+ CTFs** so far, focusing on web exploitation and crypto.
