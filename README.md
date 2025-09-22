@@ -30,7 +30,7 @@ _Bachelor’s in Data Intelligence and Cybersecurity_
 
 ## 🛠️ Projects & Tech Activities
 
-### 🐾 Panteras Hacking (aka Pwnteras) @ Universidad Panamericana
+### 🐾 Panteras Hacking (aka PwnTeras) @ Universidad Panamericana
 **Co-Leader** | July 2025 – Present  
 - **Tripled** the amount of members in our team so far during our leadership.
 - Organize the team activities with tools like Notion, Github, and Slack
