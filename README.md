@@ -42,7 +42,7 @@ _Bachelor’s in Data Intelligence and Cybersecurity_
 
 
 ### 💻 Electric Racing Association @ Oakland University
-**Lead Web Developer** | June 2025 – October 2025  
+**Lead Web Developer** | June 2025 – November 2025  
 - Coded 80% of the **team's website** from scratch using React and Tailwind.
 - Lead the division's vision for our website with the help of Figma.
 - Responded to team's feedback by idea implementation.
