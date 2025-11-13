@@ -37,7 +37,7 @@ _Bachelor’s in Data Intelligence and Cybersecurity_
 - Lead the team to classify in the **CSAW 2025 finals**.
 
 **Member** | Feb 2025 – Present  
-- Competed in **15+ CTFs** so far, focusing on web exploitation and crypto.
+- Competed in **20+ CTFs** so far, focusing on web exploitation and crypto.
 - Top 3 on our internal team leaderboard.
 
 
