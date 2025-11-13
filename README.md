@@ -16,7 +16,7 @@
 ![Static Badge](https://img.shields.io/badge/-supabase?style=flat-square&logo=Supabase&logoColor=%23FFFFFF&label=Supabase&labelColor=%233FCF8E&color=%2300000000)
 ![Static Badge](https://img.shields.io/badge/-firebase?style=flat-square&logo=Firebase&logoColor=%23FFFFFF&label=Firebase&labelColor=%23DD2C00&color=%2300000000)
 
-I'm a **Fullstack Developer** with a preference for **Backend** — I love tackling complex challenges and solving real problems with code. Always aiming to deliver well-organized, high-quality solutions with structure and dedication.
+I'm a **Fullstack Developer** — I love tackling complex challenges and solving real problems with code. Always aiming to deliver well-organized, high-quality solutions with structure and dedication.
 
 ## 🎓 Education
 
@@ -43,7 +43,7 @@ _Bachelor’s in Data Intelligence and Cybersecurity_
 
 ### 💻 Electric Racing Association @ Oakland University
 **Lead Web Developer** | June 2025 – November 2025  
-- Coded 80% of the **team's website** from scratch using React and Tailwind.
+- Coded 80% of the **team's website** from scratch using React, Tailwind and Typescript.
 - Lead the division's vision for our website with the help of Figma.
 - Responded to team's feedback by idea implementation.
 
