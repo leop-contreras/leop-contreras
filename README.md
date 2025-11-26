@@ -61,8 +61,6 @@ _Bachelor’s in Data Intelligence and Cybersecurity_
 
 ### 📫 Let's Connect
 
-Feel free to reach out or stalk my repos — always down to collaborate, learn, or share tips & memes.
-
 <a href="https://www.linkedin.com/in/leopcontreras" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="20">
 </a>
